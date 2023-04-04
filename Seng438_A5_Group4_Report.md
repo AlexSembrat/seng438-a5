@@ -14,8 +14,6 @@
 
 
 # Introduction
-
-
 The objective of this lab is to learn to assess reliability and failure data using two different methods. The first method, Reliability Growth Testing will introduce us to systematically stressing a software system in order to identify flaws in the system. The other method we will cover is a Reliability Assessment using RDC, or a Reliability Demonstration Chart. RDC assessment will involve plotting failure data at certain time points in order to measure the Failure Intensity Objective or failure per natural units. 
 
 
