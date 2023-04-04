@@ -45,6 +45,7 @@ We were unable to get the programs to generate graphs for intensity or reliabili
 ### Reliability Over Time
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/82128497/229909374-86d2bf54-552a-476d-b4ab-a9d3b1c98dfe.png">
 
+# Acceptable Range of Failure Rate for the Test Data
 
 # Assessment Using Reliability Demonstration Chart
 
@@ -56,6 +57,7 @@ For the RDC, we used the dataset ‘Failure Data 3’. After inputting this data
 ### RDC Data
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/82128497/229911513-8a5e6be9-e3c2-489b-bb0f-4be3d1dd225b.png">
 
+### Determining MTTF
 
 # Comparison of Results
 
