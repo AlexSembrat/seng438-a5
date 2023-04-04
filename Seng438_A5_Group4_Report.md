@@ -47,6 +47,7 @@ We were unable to get the programs to generate graphs for intensity or reliabili
 
 # Acceptable Range of Failure Rate for the Test Data
 
+
 # Assessment Using Reliability Demonstration Chart
 
 For the RDC, we used the dataset ‘Failure Data 3’. After inputting this data into the system, it was determined that all of the values fell between the acceptable range. 
@@ -58,6 +59,7 @@ For the RDC, we used the dataset ‘Failure Data 3’. After inputting this data
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/82128497/229911513-8a5e6be9-e3c2-489b-bb0f-4be3d1dd225b.png">
 
 ### Determining MTTF
+For our MTTF we settled on 0.042 after some trail and error. This number was determined by dividing 1 failure by the count of total failiures in our data set (1/24). We found this yeilded good results that did not go far into the reject zone, no further guidance was provided on the best way to determine MTTF and our results were acceptable.
 
 # Comparison of Results
 
