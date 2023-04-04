@@ -1,1 +1,73 @@
+**SENG 438- Software Testing, Reliability, and Quality**
+
+
+**Lab. Report \#5 – Software Reliability Assessment**
+
+
+| Group \#:          | 4 |
+|--------------------|---|
+| Student Names:     |   |
+| Alexander Sembrat  |   |
+| Andrew Howe        |   |
+| Jenna Vlaar        |   |
+| Hajin Kim	         |   |
+
+
+# Introduction
+
+
+The objective of this lab is to learn to assess reliability and failure data using two different methods. The first method, Reliability Growth Testing will introduce us to systematically stressing a software system in order to identify flaws in the system. The other method we will cover is a Reliability Assessment using RDC, or a Reliability Demonstration Chart. RDC assessment will involve plotting failure data at certain time points in order to measure the Failure Intensity Objective or failure per natural units. 
+
+
+# Assessment Using Reliability Growth Testing
+
+
+We assessed the dataset ‘J1.DAT’ by converting the data into an excel file and inputting it into the C-SFRAT application. By comparing multiple models and comparing to the dataset, we determined that the model ‘S’ was the best fit for the data.  
+
+### All Models
+![](Media/All_models.png)
+
+### Three Best Models
+<img width="934" alt="image" src="https://user-images.githubusercontent.com/82128497/229908965-6563c4c0-1b49-4f3a-9f0d-a8d4271e39ac.png">
+
+# Excel Graphs
+
+We were unable to get the programs to generate graphs for intensity or reliability so they were made in excel instead.
+
+### Insensity Over Time
+
+
+
+
+# Assessment Using Reliability Demonstration Chart
+
+
+For the RDC, we used the dataset ‘Failure Data 3’. After inputting this data into the system, it was determined that all of the values fell between the acceptable range. 
+
+
+# Comparison of Results
+
+
+
+
+
+
+# Discussion on Similarity and Differences of the Two Techniques
+
+
+The two techniques both yielded a visual representation of the reliability of the system. Reliability growth testing utilized a model to represent the reliability of the system and was able to predict future values because of this. The reliability demonstration chart utilized a sort of classification system where values are either accepted, rejected or should be tested further. Overall, both tools provide some insight into the reliability of the system through varying methods.
+
+
+# How the team work/effort was divided and managed
+Since it is required that all group members are well familiarized with both methods of testing, we decided to work simultaneously on exploring the new testing tools. All four of us downloaded and installed the testing tools and carried out the instructions. Once we finished, we discussed our results and combined our work together.
+
+
+# Difficulties encountered, challenges overcome, and lessons learned
+
+
+We had a lot of difficulty getting the tools to run on our systems as well as find a way to input the data into the system. We ended up manually creating our own files by using the data from the provided documents. From this, we managed to be able to test the reliability of the system and learn how to use C-SFRAT and SRTAT.
+
+
+# Comments/feedback on the lab itself
+Since there was no information provided on the version of Python or Java required for the tools, it was extremely difficult to download and install the test tools properly. SRTAT and C-SFRAT would both not open the test files provided. Even after converting to several different file formats, they would not open the files. If there was guidance on how to properly download and install these tools as well as specifically which datasets to input into the tools, this lab would have been completed significantly sooner. 
 
