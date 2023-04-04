@@ -46,7 +46,7 @@ We were unable to get the programs to generate graphs for intensity or reliabili
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/82128497/229909374-86d2bf54-552a-476d-b4ab-a9d3b1c98dfe.png">
 
 # Acceptable Range of Failure Rate for the Test Data
-
+By looking at our failure intensity over time graph we can see that the insensity settles around 2 failures per second, this will be the top end of the range with 0 being the low end (0,2) per second. Any events where greater than 2 failures per second are occuring should be investigated as they are straying from the norm.
 
 # Assessment Using Reliability Demonstration Chart
 
@@ -63,16 +63,11 @@ For our MTTF we settled on 0.042 after some trail and error. This number was det
 
 # Comparison of Results
 
-
-
-
-
+Overall, growth testing is best for a product currently in use to gauge and predict reliability into the future where as RDC is used closer to the end of a product to see if the reliability goals were met. The results from using RDC would be more useful to look back into the past while the results from C-SFRAT are good to predict events in the future. Both results did yeild simmilar statistics and MTTF's so either method is acceptable.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
-
 The two techniques both yielded a visual representation of the reliability of the system. Reliability growth testing utilized a model to represent the reliability of the system and was able to predict future values because of this. The reliability demonstration chart utilized a sort of classification system where values are either accepted, rejected or should be tested further. Overall, both tools provide some insight into the reliability of the system through varying methods.
-
 
 # How the team work/effort was divided and managed
 Since it is required that all group members are well familiarized with both methods of testing, we decided to work simultaneously on exploring the new testing tools. All four of us downloaded and installed the testing tools and carried out the instructions. Once we finished, we discussed our results and combined our work together.
@@ -80,9 +75,7 @@ Since it is required that all group members are well familiarized with both meth
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-
 We had a lot of difficulty getting the tools to run on our systems as well as find a way to input the data into the system. We ended up manually creating our own files by using the data from the provided documents. From this, we managed to be able to test the reliability of the system and learn how to use C-SFRAT and SRTAT.
-
 
 # Comments/feedback on the lab itself
 Since there was no information provided on the version of Python or Java required for the tools, it was extremely difficult to download and install the test tools properly. SRTAT and C-SFRAT would both not open the test files provided. Even after converting to several different file formats, they would not open the files. If there was guidance on how to properly download and install these tools as well as specifically which datasets to input into the tools, this lab would have been completed significantly sooner. 
