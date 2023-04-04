@@ -21,26 +21,29 @@ The objective of this lab is to learn to assess reliability and failure data usi
 
 # Assessment Using Reliability Growth Testing
 
-
 We assessed the dataset ‘J1.DAT’ by converting the data into an excel file and inputting it into the C-SFRAT application. By comparing multiple models and comparing to the dataset, we determined that the model ‘S’ was the best fit for the data.  
 
 ### All Models
-![](Media/All_models.png)
+<img width="923" alt="All_models" src="https://user-images.githubusercontent.com/82128497/229909095-dde2add9-f2ac-40cd-be28-c8a9e134f564.png">
 
 ### Three Best Models
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/82128497/229908965-6563c4c0-1b49-4f3a-9f0d-a8d4271e39ac.png">
 
-# Excel Graphs
+# Excel Graphs For Growth Testing
 
 We were unable to get the programs to generate graphs for intensity or reliability so they were made in excel instead.
 
 ### Insensity Over Time
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/82128497/229909506-e5f7b99c-c57c-4a63-9649-d71675e486a0.png">
 
+### Time Between Failiures
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/82128497/229909239-6d67335f-2b3a-4f3d-985a-ace7bcb674c4.png">
 
+### Reliability Over Time
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/82128497/229909374-86d2bf54-552a-476d-b4ab-a9d3b1c98dfe.png">
 
 
 # Assessment Using Reliability Demonstration Chart
-
 
 For the RDC, we used the dataset ‘Failure Data 3’. After inputting this data into the system, it was determined that all of the values fell between the acceptable range. 
 
