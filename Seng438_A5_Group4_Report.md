@@ -25,9 +25,12 @@ We assessed the dataset ‘J1.DAT’ by converting the data into an excel file a
 
 ### All Models
 <img width="923" alt="All_models" src="https://user-images.githubusercontent.com/82128497/229909980-0ff7c26b-c11e-4ddd-accd-41134bceef4f.png">
+<img width="929" alt="image" src="https://user-images.githubusercontent.com/82128497/229910515-0f826ce2-76ac-48b4-97d6-4497234c520e.png">
 
 ### Three Best Models
 <img width="934" alt="image" src="https://user-images.githubusercontent.com/82128497/229908965-6563c4c0-1b49-4f3a-9f0d-a8d4271e39ac.png">
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/82128497/229910418-c27f4ba2-001e-4c2b-b0cb-51c5e00c9a6e.png">
+
 
 # Excel Graphs For Growth Testing
 
