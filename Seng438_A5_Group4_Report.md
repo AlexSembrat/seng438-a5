@@ -50,6 +50,12 @@ We were unable to get the programs to generate graphs for intensity or reliabili
 
 For the RDC, we used the dataset ‘Failure Data 3’. After inputting this data into the system, it was determined that all of the values fell between the acceptable range. 
 
+### RDC Chart
+<img width="316" alt="image" src="https://user-images.githubusercontent.com/82128497/229911319-33e8ce38-5b25-4e81-8ac9-d30d45d857f9.png">
+
+### RDC Data
+<img width="392" alt="image" src="https://user-images.githubusercontent.com/82128497/229911513-8a5e6be9-e3c2-489b-bb0f-4be3d1dd225b.png">
+
 
 # Comparison of Results
 
